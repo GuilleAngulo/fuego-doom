@@ -8,3 +8,6 @@ https://github.com/filipedeschamps/doom-fire-algorithm
 
 ## Built With
 * [Javascript]
+
+## Screen
+![](https://github.com/GuilleAngulo/fuego-doom/blob/master/fuego-doom.gif)

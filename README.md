@@ -3,11 +3,10 @@ An implementation of the Doom fire effect described by Filipe Deschamps. As an a
 
 
 ## Authors
-Filipe Deschamps
-https://github.com/filipedeschamps/doom-fire-algorithm
+[Filipe Deschamps](https://github.com/filipedeschamps)
 
 ## Built With
-* [Javascript]
+* Javascript
 
 ## Screen
 ![](https://github.com/GuilleAngulo/fuego-doom/blob/master/fuego-doom.gif)

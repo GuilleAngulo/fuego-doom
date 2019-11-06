@@ -3,7 +3,7 @@ An implementation of the Doom fire effect described by Filipe Deschamps. As an a
 
 
 ## Authors
-[Filipe Deschamps](https://github.com/filipedeschamps)
+[@filipedeschamps](https://github.com/filipedeschamps)
 
 ## Built With
 * Javascript
